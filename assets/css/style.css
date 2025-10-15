@@ -20,3 +20,17 @@
 body {
     font-family: var(--primary-font);
 }
+
+/*navbar*/
+
+#navbar .navbar-nav .nav-link {
+    font-size: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+#navbar .navbar-brand {
+    font-size: 2.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
