@@ -3,8 +3,8 @@
 
 /* CSS Variables */
 :root {
-    --primary-font: "Aladin", cursive;
-    --secondary-font: "Rubik", sans-serif;
+    --primary-font: "aladin", sans-serif;
+    --secondary-font: "rubik", sans-serif;
     --primary-color: #000000;
     /* black */
     --secondary-color: #ffffff;
