@@ -56,19 +56,19 @@
 
     <!--Contact-->
     <header>
-        <div class="container my-5">
+        <div class="container my-4">
             <h2 class="text-center mb-4">Contact Us</h2>
             <div class="row text-center mb-4">
-                <div class="col-md-4 mb-2">
+                <div class="col-lg-4 mb-2">
                     <strong>Address:</strong><br>
                     123 Smeagalville<br>
-                    , UK W10B 2LE
+                    UK W10B 2LE
                 </div>
-                <div class="col-md-4 mb-2">
+                <div class="col-lg-4 mb-2">
                     <strong>Email:</strong><br>
                     <a href="mailto:info@goodfellasbarbers.com">info@goodfellasbarbers.com</a>
                 </div>
-                <div class="col-md-4 mb-2">
+                <div class="col-lg-4 mb-2">
                     <strong>Phone:</strong><br>
                     <a href="tel:+442071234567">+44 1234567890</a>
                 </div>
@@ -79,7 +79,7 @@
     <!--Opening times table-->
 
     <main>
-        <div id="opening" class="container my-5">
+        <div id="opening" class="container my-3">
             <h2 class="text-center mb-4">Opening Hours</h2>
             <div class="table-responsive">
                 <table class="table table-bordered table-striped text-center">
@@ -130,6 +130,36 @@
                 </table>
             </div>
         </div>
+
+        <!--register interest form-->
+
+        <section id="register-interest" class="container section">
+            <div class="row text-center justify-content-center">
+                <div class="col-12">
+                    <h2>Register interest now!</h2>
+                    <form action="#" method="GET">
+                        <div class="row">
+                            <div class="col-12 col-lg-4 mb-3">
+                                <label for="name" class="form-label">Name</label>
+                                <input class="form-control" id="name" name="name" type="text" required />
+                            </div>
+                            <div class="col-12 col-lg-4 mb-3">
+                                <label for="email" class="form-label">Email</label>
+                                <input class="form-control" id="email" name="email" type="email" required />
+                            </div>
+                            <div class="col-12 col-lg-4 mb-3">
+                                <label for="phone" class="form-label">Phone number</label>
+                                <input class="form-control" id="phone" name="phone" type="number" required />
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-red mb-4">
+                            Submit
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </section>
+
 
     </main>
 
