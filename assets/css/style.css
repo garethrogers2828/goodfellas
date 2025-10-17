@@ -51,7 +51,7 @@ body {
 
 /* buttons*/
 
-.btn-red {
+.btn-white {
     background-color: var(--secondary-color);
     border: var(--primary-color);
     color: var(--primary-color);
