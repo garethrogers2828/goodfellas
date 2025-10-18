@@ -48,9 +48,9 @@ GoodFellas is a barber shop website for males of all ages. GoodFellas barbers of
 
 ## Credits
 
-I used b
+I used bootstrap 5 to help make the site responsive on all devices, favicon, fontawesome for the icons to social media, google fonts to import both fonts used. I used bootstrap containers and columns to help make the conent and images responsive on all devices. I used Bootstrap for the table of opening/closing days and times. 
 
-## Conent 
+## Content 
 
 - The content from the home page was taken from [https://colorlib.com/wp/barbershop-websites/](https://scissorsscotch.com/home#scissors-scotch) & https://www.fortworthbarbershop.com/
 - The Icons from the footer were taken from https://fontawesome.com/ 
@@ -58,6 +58,7 @@ I used b
 ## Media 
 
 - The photos used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
