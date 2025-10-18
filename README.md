@@ -9,7 +9,6 @@ GoodFellas is a barber shop website for males of all ages. GoodFellas barbers of
 
 Featured on all three pages using bootstrap, the full responsive navigation bar includes links to Home, Services & Contact page. Its resposive on all 3 pages and alows users to easily access each page efficiently and know where they are. 
 
-<img width="1882" height="80" alt="image" src="https://github.com/user-attachments/assets/9c903c69-3178-425e-a41d-bcd594b8ce86" />
 
 
 2. 
@@ -24,5 +23,6 @@ Featured on all three pages using bootstrap, the full responsive navigation bar 
 ## Credits
 - 
 - 
+
 
 
