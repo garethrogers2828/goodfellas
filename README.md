@@ -4,6 +4,8 @@
 
 GoodFellas is a barber shop website for males of all ages. GoodFellas barbers offer a range of hair and beard services to its clients. Goodfellas will be useful for males to contact and register interest in the barber shop. Services, Location & Contact details are all easily viewable so visitors can plan their journey easily. 
 
+- link to the live site here https://garethrogers2828.github.io/goodfellas/index.html
+
 # Existing Features
 
 ## Navigation
@@ -58,6 +60,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The photos used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
