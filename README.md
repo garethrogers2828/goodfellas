@@ -49,7 +49,7 @@ The business goals for GoodFellas are:
 
 ## Home/landing Page 
 
-- The Home/landing includes a photograph that shows the type of service available.
+- The Home/landing includes an image that clearly shows the type of service available.
 - 
 
 ## Services 
@@ -103,7 +103,8 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 
 ## Media 
 
-- The photos used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+- The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
