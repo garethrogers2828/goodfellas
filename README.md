@@ -36,6 +36,10 @@ GoodFellas is a barber shop website for males of all ages. GoodFellas barbers of
 
 ## Footer 
 
+<img width="1898" height="154" alt="footer-desktop" src="https://github.com/user-attachments/assets/a1a40869-6292-4d35-b8ac-4272ce83e8b3" />
+<img width="362" height="203" alt="footer-mobile" src="https://github.com/user-attachments/assets/2bf4da37-0115-4bc6-885e-433319dfb3ba" />
+
+
 - The footer section includes links to the relevant social media sites for GoodFellas. The links will open to a new tab to allow easy navigation for the user.
 - The footer is valuable to the user as it encourages them to keep connected via social media 
 
@@ -69,6 +73,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The photos used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
