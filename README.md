@@ -8,6 +8,31 @@ GoodFellas is a barber shop website for males of all ages. GoodFellas barbers of
 
  <img width="1455" height="636" alt="Responsive" src="https://github.com/user-attachments/assets/c544b5b3-ea16-4d57-880a-e8ed62b98c78" />
 
+# Visitor Goals
+
+The target audience for GoodFellas are:
+
+- Males of all ages
+
+User goals are:
+
+- View contact info
+- See services available
+- Register Interest
+- Follow on social media
+
+GoodFellas allows these goals to be met by providing simple navigation through all 3 pages. It displays avalable services, contact, location and social links and provides an option to register interest via a simple form. 
+
+# Business Goals
+
+The business goals for GoodFellas are:
+
+- Generate more interest 
+- Advertise what services available
+- Supply social links
+- provide simple way to register interest
+
+# User Stories 
 
 # Existing Features
 
@@ -79,6 +104,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The photos used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
