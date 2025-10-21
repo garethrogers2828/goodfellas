@@ -6,6 +6,9 @@ GoodFellas is a barber shop website for males of all ages. GoodFellas barbers of
 
 - link to the live site here https://garethrogers2828.github.io/goodfellas/index.html
 
+ <img width="1455" height="636" alt="Responsive" src="https://github.com/user-attachments/assets/c544b5b3-ea16-4d57-880a-e8ed62b98c78" />
+
+
 # Existing Features
 
 ## Navigation
@@ -60,6 +63,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The photos used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
