@@ -25,12 +25,18 @@ GoodFellas is a barber shop website for males of all ages. GoodFellas barbers of
 ## Home/landing Page 
 
 - The Home/landing includes a photograph that shows the type of service available.
+- 
 
 ## Services 
+
+<img width="1014" height="557" alt="services-page-responsiveness" src="https://github.com/user-attachments/assets/c66579f8-67b6-45bb-8bbf-8209ccf2b9ea" />
+
 
 - The services page clearly displays the services available and the prices. 
 
 ## Contact Section
+
+<img width="1037" height="567" alt="contact-page-responsiveness" src="https://github.com/user-attachments/assets/8435d9ff-680e-48d8-a32c-ee2fcc09fd30" />
 
 - The contact page not only displays where and when the barber shop is open/closed but also includeds a register interest form so users can easily make contact with the barber shop. The user will be asked to submit name phone and email address.
 
@@ -73,6 +79,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The photos used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
