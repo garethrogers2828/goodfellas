@@ -49,21 +49,23 @@ The business goals for GoodFellas are:
 
 ## Home/landing Page 
 
-- The Home/landing includes an image that clearly shows the type of service available.
-- 
+- The Home/landing includes an image that clearly shows the type of service available. The content is engaging and quirky and makes you want to find out more. 
+- This is useful to the visitor as it immediatley shows them the type of service available. The content quickly explains the reason for the site in a fun and engaging way. 
 
 ## Services 
 
 <img width="1014" height="557" alt="services-page-responsiveness" src="https://github.com/user-attachments/assets/c66579f8-67b6-45bb-8bbf-8209ccf2b9ea" />
 
 
-- The services page clearly displays the services available and the prices. 
+- The services page clearly displays the services available and the prices.
+- This is valuable to existing and new customers to see if the barbershop can offer them the service they desire and if they are within budget. 
 
 ## Contact Section
 
 <img width="1037" height="567" alt="contact-page-responsiveness" src="https://github.com/user-attachments/assets/8435d9ff-680e-48d8-a32c-ee2fcc09fd30" />
 
-- The contact page not only displays where and when the barber shop is open/closed but also includeds a register interest form so users can easily make contact with the barber shop. The user will be asked to submit name phone and email address.
+- The contact page not only displays where and when the barber shop is open/closed but also includeds a register interest form so users can easily make contact with the barber shop. The user will be asked to submit name, phone and email address.
+- This is usefull for all user to know exactlty where the shop is and ho to contact them.
 
 ## Footer 
 
@@ -104,6 +106,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
