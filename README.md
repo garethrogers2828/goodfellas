@@ -23,7 +23,7 @@ User goals are:
 
 GoodFellas allows these goals to be met by providing simple navigation through all 3 pages. It displays avalable services, contact, location and social links and provides an option to register interest via a simple form. 
 
-# Business Goals
+## Business Goals
 
 The business goals for GoodFellas are:
 
@@ -32,13 +32,23 @@ The business goals for GoodFellas are:
 - Supply social links
 - provide simple way to register interest
 
-# User Stories 
+## User Stories 
 
 1. As a new customer, I need easy navigation and a user-friendly design, including a responsive layout for my device, so I can find information quickly and efficiently.
 2. As a potential new customer, i need to essential information such as location, contact details, and opening hours clearly and concisely, so I can easily plan my visit.
 3. As a customer, i need to be able to register my interest due to my busy schedule.
 
+# Design
 
+## Wireframes
+
+![mobile-wireframe](https://github.com/user-attachments/assets/4ddd2b2e-15e0-4bd3-9b7f-2319a1e51aba)
+![desktop-wireframe](https://github.com/user-attachments/assets/0a34b75d-a895-47f6-a11e-fc6ad5e94fa0)
+
+## Fonts
+
+- The primary font is Aladin and is used only for the GoodFellas brand name. Its a friendly font that stands out to users.
+- The primary font used was Rubik. I used this for the content as its looks sharp on screen and easily readable for users.
 
 # Existing Features
 
@@ -112,6 +122,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
