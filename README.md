@@ -2,7 +2,7 @@
 
 ## Description
 
-GoodFellas is a barber shop website for males of all ages. GoodFellas barbers offer a range of hair and beard services to its clients. Goodfellas will be useful for males to contact and register interest in the barber shop. Services, Location & Contact details are all easily viewable so visitors can plan their journey easily. 
+GoodFellas is a barber shop website for males of all ages. GoodFellas barbers offer a range of hair and beard services to its clients. Goodfellas will be useful for males to contact and register interest in the barber shop. Services, Location & Contact details are all easily viewable so visitors register and plan their journey easily. 
 
 - link to the live site here https://garethrogers2828.github.io/goodfellas/index.html
 
@@ -23,7 +23,7 @@ User goals are:
 
 GoodFellas allows these goals to be met by providing simple navigation through all 3 pages. It displays avalable services, contact, location and social links and provides an option to register interest via a simple form. 
 
-# Business Goals
+## Business Goals
 
 The business goals for GoodFellas are:
 
@@ -32,7 +32,32 @@ The business goals for GoodFellas are:
 - Supply social links
 - provide simple way to register interest
 
-# User Stories 
+## User Stories 
+
+1. As a new customer, I need easy navigation and a user-friendly design, including a responsive layout for my device, so I can find information quickly and efficiently.
+2. As a potential new customer, i need to essential information such as location, contact details, and opening hours clearly and concisely, so I can easily plan my visit.
+3. As a customer, i need to be able to register my interest due to my busy schedule.
+
+# Design
+
+## Wireframes
+
+![mobile-wireframe](https://github.com/user-attachments/assets/4ddd2b2e-15e0-4bd3-9b7f-2319a1e51aba)
+![desktop-wireframe](https://github.com/user-attachments/assets/0a34b75d-a895-47f6-a11e-fc6ad5e94fa0)
+
+- I had originally wanted to include an image in the contact page but this is not included in the website currently. It could be implemented at a later date. 
+
+## Fonts
+
+- The primary font is Aladin and is used only for the GoodFellas brand name. Its a friendly font that stands out to users.
+- The secondary font used was Rubik. I used this for the content as its looks sharp on screen and easily readable for users.
+
+## Icons 
+
+- Icons were taken from font awesome
+
+<img width="441" height="58" alt="icons" src="https://github.com/user-attachments/assets/c5d609cf-6cce-42f9-adcb-374b51724593" />
+
 
 # Existing Features
 
@@ -48,6 +73,9 @@ The business goals for GoodFellas are:
 
 
 ## Home/landing Page 
+
+<img width="1910" height="901" alt="home-page" src="https://github.com/user-attachments/assets/23d0343e-1ce2-416c-9017-cce11f5e353d" />
+
 
 - The Home/landing includes an image that clearly shows the type of service available. The content is engaging and quirky and makes you want to find out more. 
 - This is useful to the visitor as it immediatley shows them the type of service available. The content quickly explains the reason for the site in a fun and engaging way. 
@@ -106,6 +134,12 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
+
+
+
+
+
 
 
 
