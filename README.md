@@ -2,7 +2,7 @@
 
 ## Description
 
-GoodFellas is a barber shop website for males of all ages. GoodFellas barbers offer a range of hair and beard services to its clients. Goodfellas will be useful for males to contact and register interest in the barber shop. Services, Location & Contact details are all easily viewable so visitors can plan their journey easily. 
+GoodFellas is a barber shop website for males of all ages. GoodFellas barbers offer a range of hair and beard services to its clients. Goodfellas will be useful for males to contact and register interest in the barber shop. Services, Location & Contact details are all easily viewable so visitors register and plan their journey easily. 
 
 - link to the live site here https://garethrogers2828.github.io/goodfellas/index.html
 
@@ -72,6 +72,9 @@ The business goals for GoodFellas are:
 
 ## Home/landing Page 
 
+<img width="1910" height="901" alt="home-page" src="https://github.com/user-attachments/assets/23d0343e-1ce2-416c-9017-cce11f5e353d" />
+
+
 - The Home/landing includes an image that clearly shows the type of service available. The content is engaging and quirky and makes you want to find out more. 
 - This is useful to the visitor as it immediatley shows them the type of service available. The content quickly explains the reason for the site in a fun and engaging way. 
 
@@ -129,6 +132,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
