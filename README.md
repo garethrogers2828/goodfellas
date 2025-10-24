@@ -136,6 +136,11 @@ The website has been tested using DevTools lighthouse, producing an acceptable r
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
 
+1. Go to your repository on GitHub. Then, navigate to the Settings tab.
+2. Scroll down to the "Pages" section in the left sidebar and select it.
+3. Under Branch, Select the main branch.
+4. Click Save to confirm.
+
 
 ## Credits
 
@@ -158,6 +163,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
