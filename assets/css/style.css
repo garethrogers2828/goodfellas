@@ -5,26 +5,25 @@
 /* CSS Variables (template from Boardwalk games project) */
 
 :root {
-    --primary-font: "Aladin", cursive;
-    --secondary-font: "Rubik", sans-serif;
-    --primary-color: #000000;
     /* black */
-    --secondary-color: #ffffff;
+    --primary-color: #000000;
     /* white */
-    --highlight-color: #7f7f7f;
+    --secondary-color: #ffffff;
     /* Grey */
+    --highlight-color: #7f7f7f;
+
 }
 
 /* Global styles */
 
 body {
-    font-family: var(--secondary-font);
+    font-family: "Rubik", sans-serif;
 }
 
 /*navbar*/
 
 .navbar-brand {
-    font-family: var(--primary-font);
+    font-family: "Aladin", cursive;
 }
 
 #navbar .navbar-nav .nav-link {
