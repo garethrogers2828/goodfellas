@@ -34,6 +34,12 @@ The business goals for GoodFellas are:
 
 # User Stories 
 
+1. As a new customer, I need easy navigation and a user-friendly design, including a responsive layout for my device, so I can find information quickly and efficiently.
+2. As a potential new customer, i need to essential information such as location, contact details, and opening hours clearly and concisely, so I can easily plan my visit.
+3. As a customer, i need to be able to register my interest due to my busy schedule.
+
+
+
 # Existing Features
 
 ## Navigation
@@ -106,6 +112,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
