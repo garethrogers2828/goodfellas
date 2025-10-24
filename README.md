@@ -6,26 +6,72 @@ GoodFellas is a barber shop website for males of all ages. GoodFellas barbers of
 
 - link to the live site here https://garethrogers2828.github.io/goodfellas/index.html
 
+ <img width="1455" height="636" alt="Responsive" src="https://github.com/user-attachments/assets/c544b5b3-ea16-4d57-880a-e8ed62b98c78" />
+
+# Visitor Goals
+
+The target audience for GoodFellas are:
+
+- Males of all ages
+
+User goals are:
+
+- View contact info
+- See services available
+- Register Interest
+- Follow on social media
+
+GoodFellas allows these goals to be met by providing simple navigation through all 3 pages. It displays avalable services, contact, location and social links and provides an option to register interest via a simple form. 
+
+# Business Goals
+
+The business goals for GoodFellas are:
+
+- Generate more interest 
+- Advertise what services available
+- Supply social links
+- provide simple way to register interest
+
+# User Stories 
+
 # Existing Features
 
 ## Navigation
+
+<img width="1902" height="112" alt="Navbar-desktop" src="https://github.com/user-attachments/assets/dc183271-93cd-48ce-8cff-afa540d2be42" />
+
+<img width="329" height="86" alt="navbar-mobile" src="https://github.com/user-attachments/assets/04ade64a-f921-4b41-ae8e-aa9614f39813" />
+
+
 
 - Featured on all three pages using bootstrap, the full responsive navigation bar includes links to Home, Services & Contact page. Its resposive on all 3 pages and alows users to easily access each page efficiently and know where they are. 
 
 
 ## Home/landing Page 
 
-- The Home/landing includes a photograph that shows the type of service available.
+- The Home/landing includes an image that clearly shows the type of service available. The content is engaging and quirky and makes you want to find out more. 
+- This is useful to the visitor as it immediatley shows them the type of service available. The content quickly explains the reason for the site in a fun and engaging way. 
 
 ## Services 
 
-- The services page clearly displays the services available and the prices. 
+<img width="1014" height="557" alt="services-page-responsiveness" src="https://github.com/user-attachments/assets/c66579f8-67b6-45bb-8bbf-8209ccf2b9ea" />
+
+
+- The services page clearly displays the services available and the prices.
+- This is valuable to existing and new customers to see if the barbershop can offer them the service they desire and if they are within budget. 
 
 ## Contact Section
 
-- The contact page not only displays where and when the barber shop is open/closed but also includeds a register interest form so users can easily make contact with the barber shop. The user will be asked to submit name phone and email address.
+<img width="1037" height="567" alt="contact-page-responsiveness" src="https://github.com/user-attachments/assets/8435d9ff-680e-48d8-a32c-ee2fcc09fd30" />
+
+- The contact page not only displays where and when the barber shop is open/closed but also includeds a register interest form so users can easily make contact with the barber shop. The user will be asked to submit name, phone and email address.
+- This is usefull for all user to know exactlty where the shop is and ho to contact them.
 
 ## Footer 
+
+<img width="1898" height="154" alt="footer-desktop" src="https://github.com/user-attachments/assets/a1a40869-6292-4d35-b8ac-4272ce83e8b3" />
+<img width="362" height="203" alt="footer-mobile" src="https://github.com/user-attachments/assets/2bf4da37-0115-4bc6-885e-433319dfb3ba" />
+
 
 - The footer section includes links to the relevant social media sites for GoodFellas. The links will open to a new tab to allow easy navigation for the user.
 - The footer is valuable to the user as it encourages them to keep connected via social media 
@@ -59,7 +105,14 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 
 ## Media 
 
-- The photos used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+- The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
+
+
+
+
+
+
 
 
 
