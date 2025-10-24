@@ -144,6 +144,8 @@ The website has been tested using DevTools lighthouse, producing an acceptable r
 
 ## Bugs
 
+- There are no bugs that i am aware of but are some performace issues due to the size of the images. These can be reduced to help with this.
+
 ## Version Control 
 
 - The site has been managed within git-hub.
@@ -181,6 +183,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
