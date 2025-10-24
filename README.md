@@ -110,6 +110,8 @@ The business goals for GoodFellas are:
 
 ## Testing
 
+
+
 # Validator Testing
 
 - HTML
@@ -121,6 +123,8 @@ The business goals for GoodFellas are:
 <img width="1611" height="485" alt="w3c-css-validation" src="https://github.com/user-attachments/assets/70c6acbe-e388-4d7f-a460-29a9065bcfb3" />
 
 # Lighthouse Testing 
+
+The website has been tested using DevTools lighthouse, producing an acceptable result.
 
 <img width="318" height="333" alt="lighthouse-test" src="https://github.com/user-attachments/assets/ff0054e2-57ef-43e1-81de-812b625f2cda" />
 
@@ -144,6 +148,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
