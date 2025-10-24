@@ -69,7 +69,8 @@ The business goals for GoodFellas are:
 
 
 
-- Featured on all three pages using bootstrap, the full responsive navigation bar includes links to Home, Services & Contact page. Its resposive on all 3 pages and alows users to easily access each page efficiently and know where they are. 
+- Featured on all three pages using bootstrap, the full responsive navigation bar includes links to Home, Services & Contact page. Its resposive on all 3 pages.
+- Its useful to all users so they can find the information they want and know what page they are on all times.
 
 
 ## Home/landing Page 
@@ -156,6 +157,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
