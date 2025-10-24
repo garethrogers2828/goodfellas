@@ -61,7 +61,7 @@ The business goals for GoodFellas are:
 
 ## Icons 
 
-- Icons were taken from font awesome
+- Icons were taken from font awesome  https://fontawesome.com/
 
 <img width="441" height="58" alt="icons" src="https://github.com/user-attachments/assets/c5d609cf-6cce-42f9-adcb-374b51724593" />
 
@@ -188,6 +188,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
