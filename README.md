@@ -35,8 +35,8 @@ The business goals for GoodFellas are:
 ## User Stories 
 
 1. As a new customer, I need easy navigation and a user-friendly design, including a responsive layout for my device, so I can find information quickly and efficiently.
-2. As a potential new customer, i need to essential information such as location, contact details, and opening hours clearly and concisely, so I can easily plan my visit.
-3. As a customer, i need to be able to register my interest due to my busy schedule.
+2. As a potential new customer, I need to essential information such as location, contact details, and opening hours clearly and concisely, so I can easily plan my visit.
+3. As a customer, I need to be able to register my interest due to my busy schedule.
 
 # Design
 
@@ -45,23 +45,23 @@ The business goals for GoodFellas are:
 ![mobile-wireframe](https://github.com/user-attachments/assets/4ddd2b2e-15e0-4bd3-9b7f-2319a1e51aba)
 ![desktop-wireframe](https://github.com/user-attachments/assets/0a34b75d-a895-47f6-a11e-fc6ad5e94fa0)
 
-- I had originally wanted to include an image in the contact page but this is not included in the website currently. It could be implemented at a later date.
+- I had originally wanted to include an image at the top of the contact page but this is not included in the website currently. It could be implemented at a later date.
 
 ## Colours
 
-- I wanted to use black and white for a clean modern look. Bootstrap dark theme allowed me to do this quickly. it also creates a little contrast between nav and footer. I have also use #7f7f7f which a darker form of grey. This also works well.
+- I wanted to use black and white for a clean modern look. Bootstrap dark theme allowed me to do this quickly. It also creates a little contrast between nav, body & footer. I have also use #7f7f7f which a darker form of grey. This also works well.
 
 - <img width="625" height="450" alt="contrast-checker" src="https://github.com/user-attachments/assets/32f9fe0f-0b83-4e77-80df-7b0c5fe990a3" />
 
 
 ## Fonts
 
-- The primary font is Aladin and is used only for the GoodFellas brand name. Its a friendly font that stands out to users.
-- The secondary font used was Rubik. I used this for the content as its looks sharp on screen and easily readable for users.
+- The primary font is Aladin and is used only for the GoodFellas brand name. It's a friendly font that stands out to users.
+- The secondary font used was Rubik. I used this for the remaining content as its looks sharp on screen and easily readable for users.
 
 ## Icons 
 
-- Icons were taken from font awesome
+- Icons were taken from font awesome  https://fontawesome.com/
 
 <img width="441" height="58" alt="icons" src="https://github.com/user-attachments/assets/c5d609cf-6cce-42f9-adcb-374b51724593" />
 
@@ -76,15 +76,15 @@ The business goals for GoodFellas are:
 
 
 
-- Featured on all three pages using bootstrap, the full responsive navigation bar includes links to Home, Services & Contact page. Its resposive on all 3 pages.
+- Featured on all three pages using bootstrap, the full responsive navigation bar includes links to Home, Services & Contact page. Its responsive on all 3 pages.
 - Its useful to all users so they can find the information they want and know what page they are on all times.
 
 
-## Home/landing Page 
+## Home/Landing Page 
 
 <img width="1910" height="901" alt="home-page" src="https://github.com/user-attachments/assets/23d0343e-1ce2-416c-9017-cce11f5e353d" />
 
-- The Home/landing includes an image that clearly shows the type of service available. The content is engaging and quirky and makes you want to find out more. 
+- The Home/Landing page includes an image that clearly shows the type of service available. The content is engaging and quirky and makes you want to find out more. 
 - This is useful to the visitor as it immediatley shows them the type of service available. The content quickly explains the reason for the site in a fun and engaging way. 
 
 ## Services 
@@ -102,7 +102,7 @@ The business goals for GoodFellas are:
 <img width="1888" height="886" alt="contact-page-desktop" src="https://github.com/user-attachments/assets/24d0ec04-20b9-49fd-bbd8-98fc69b5cd2a" />
 
 - The contact page not only displays where and when the barber shop is open/closed but also includes a register interest form so users can easily make contact with the barber shop. The user will be asked to submit name, phone and email address.
-- This is useful for all user to know exactlty where the shop is and how to contact them.
+- This is useful for all user to know exactlty where the shop is and how to contact them. 
 
 ## Footer 
 
@@ -111,7 +111,7 @@ The business goals for GoodFellas are:
 
 
 - The footer section includes links to the relevant social media sites for GoodFellas. The links will open to a new tab to allow easy navigation for the user.
-- The footer is valuable to the user as it encourages them to keep connected via social media 
+- The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ## How to View the Project
 
@@ -127,7 +127,7 @@ The business goals for GoodFellas are:
 
 ## Validator Testing
 
-- HTML
+- HTML, all pages pass.
   
 <img width="1800" height="150" alt="wsc-html-validator" src="https://github.com/user-attachments/assets/443d87fe-c504-46a2-bea1-ac8d44f29c47" />
 
@@ -144,7 +144,7 @@ The website has been tested using DevTools lighthouse, producing an acceptable r
 
 ## Bugs
 
-- There are no bugs that i am aware of but are some performace issues due to the size of the images. These can be reduced to help with this.
+- There are some performance issues due to the size of the images. These can be reduced to help with this and improve performance in future. 
 
 ## IDE
 
@@ -188,6 +188,9 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
+
+
 
 
 
