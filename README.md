@@ -146,6 +146,10 @@ The website has been tested using DevTools lighthouse, producing an acceptable r
 
 - There are no bugs that i am aware of but are some performace issues due to the size of the images. These can be reduced to help with this.
 
+## IDE
+
+- Used Visual Studio Code. 
+
 ## Version Control 
 
 - The site has been managed within git-hub.
@@ -172,17 +176,19 @@ I have enhanced my knowledge of bootstrap to reduce the amount of CSS that needs
 
 https://getbootstrap.com/docs/5.3
 
-I used bootstrap 5 to help make the site responsive on all devices, favicon, fontawesome for the icons to social media, google fonts to import both fonts used. I used bootstrap containers and columns to help make the conent and images responsive on all devices. I used Bootstrap for the table of opening/closing days and times.
+I used bootstrap 5 to help make the site responsive on all devices, favicon, fontawesome for the icons to social media, google fonts to import both fonts used. I used bootstrap containers and columns to help make the content and images responsive on all devices. I used Bootstrap for the table of opening/closing days and times.
 
 ## Content 
 
 - The content from the home page was taken from [https://colorlib.com/wp/barbershop-websites/](https://scissorsscotch.com/home#scissors-scotch) & https://www.fortworthbarbershop.com/
-- 
-- The Icons from the footer were taken from https://fontawesome.com/ 
+- Some of the content has been made up by myself
+- The Icons from the footer were taken from https://fontawesome.com/
+
 
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
