@@ -144,6 +144,8 @@ The website has been tested using DevTools lighthouse, producing an acceptable r
 
 ## Bugs
 
+- Was getting 404 error message on deployed site when clicking nav brand name "Goodfellas". I have now fixed this but the link will not work in the Local environmment, only the deployed site.
+
 - There are some performance issues due to the size of the images. These can be reduced to help with this and improve performance in future. 
 
 ## IDE
@@ -188,6 +190,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
