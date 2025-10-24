@@ -50,6 +50,13 @@ The business goals for GoodFellas are:
 - The primary font is Aladin and is used only for the GoodFellas brand name. Its a friendly font that stands out to users.
 - The primary font used was Rubik. I used this for the content as its looks sharp on screen and easily readable for users.
 
+## Icons 
+
+- Icons were taken from font awesome
+
+<img width="441" height="58" alt="icons" src="https://github.com/user-attachments/assets/c5d609cf-6cce-42f9-adcb-374b51724593" />
+
+
 # Existing Features
 
 ## Navigation
@@ -122,6 +129,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
