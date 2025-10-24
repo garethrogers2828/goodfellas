@@ -45,7 +45,14 @@ The business goals for GoodFellas are:
 ![mobile-wireframe](https://github.com/user-attachments/assets/4ddd2b2e-15e0-4bd3-9b7f-2319a1e51aba)
 ![desktop-wireframe](https://github.com/user-attachments/assets/0a34b75d-a895-47f6-a11e-fc6ad5e94fa0)
 
-- I had originally wanted to include an image in the contact page but this is not included in the website currently. It could be implemented at a later date. 
+- I had originally wanted to include an image in the contact page but this is not included in the website currently. It could be implemented at a later date.
+
+## Colours
+
+- I wanted to use black and white for a clean moder look. Bootsrap dark theme allowed me to do this quickly. As the colours on the dark theme are not quite black and white I was able to create a little contrast for sections such as the nav and footer. I have also use #7f7f7f which a darker form of grey. This also works well.
+
+- <img width="625" height="450" alt="contrast-checker" src="https://github.com/user-attachments/assets/32f9fe0f-0b83-4e77-80df-7b0c5fe990a3" />
+
 
 ## Fonts
 
@@ -115,7 +122,7 @@ The business goals for GoodFellas are:
 ## Manual testing 
 
 - I tested the device personally for both Mobile and desktop. I had colleagues friends and family do the same.
-- The site has been tested on chrime and edge browsers. 
+- The site has been tested on chrome and edge browsers. 
 
 
 ## Validator Testing
@@ -174,6 +181,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
