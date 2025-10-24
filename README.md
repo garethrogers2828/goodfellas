@@ -110,10 +110,15 @@ The business goals for GoodFellas are:
 
 - (https://garethrogers2828.github.io/goodfellas/index.html)
 
-## Testing
+# Testing
+
+## Manual testing 
+
+- I tested the device personally for both Mobile and desktop. I had colleagues friends and family do the same.
+- The site has been tested on chrime and edge browsers. 
 
 
-# Validator Testing
+## Validator Testing
 
 - HTML
   
@@ -123,7 +128,7 @@ The business goals for GoodFellas are:
   
 <img width="1611" height="485" alt="w3c-css-validation" src="https://github.com/user-attachments/assets/70c6acbe-e388-4d7f-a460-29a9065bcfb3" />
 
-# Lighthouse Testing 
+## Lighthouse Testing 
 
 The website has been tested using DevTools lighthouse, producing an acceptable result.
 
@@ -163,6 +168,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
