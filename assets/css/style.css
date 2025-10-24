@@ -1,7 +1,9 @@
 /* Google fonts import */
+
 @import url('https://fonts.googleapis.com/css2?family=Aladin&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
-/* CSS Variables */
+/* CSS Variables (template from Boardwalk games project) */
+
 :root {
     --primary-font: "Aladin", cursive;
     --secondary-font: "Rubik", sans-serif;
@@ -37,8 +39,6 @@ body {
     padding-bottom: 0.5rem;
 }
 
-/*Hero image*/
-
 /*footer*/
 
 #social-links {
@@ -53,4 +53,10 @@ body {
     background-color: var(--secondary-color);
     border: var(--primary-color);
     color: var(--primary-color);
+}
+
+.btn.custom-hover:hover {
+    color: var(--secondary-color);
+    background-color: var(--highlight-color);
+    border: var(--primary-color)
 }
