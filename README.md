@@ -77,7 +77,6 @@ The business goals for GoodFellas are:
 
 <img width="1910" height="901" alt="home-page" src="https://github.com/user-attachments/assets/23d0343e-1ce2-416c-9017-cce11f5e353d" />
 
-
 - The Home/landing includes an image that clearly shows the type of service available. The content is engaging and quirky and makes you want to find out more. 
 - This is useful to the visitor as it immediatley shows them the type of service available. The content quickly explains the reason for the site in a fun and engaging way. 
 
@@ -85,6 +84,7 @@ The business goals for GoodFellas are:
 
 <img width="1014" height="557" alt="services-page-responsiveness" src="https://github.com/user-attachments/assets/c66579f8-67b6-45bb-8bbf-8209ccf2b9ea" />
 
+<img width="1888" height="877" alt="services-page-desktop" src="https://github.com/user-attachments/assets/6aef7555-e1ef-43bc-bbe0-0898e42a0cdd" />
 
 - The services page clearly displays the services available and the prices.
 - This is valuable to existing and new customers to see if the barbershop can offer them the service they desire and if they are within budget. 
@@ -92,6 +92,7 @@ The business goals for GoodFellas are:
 ## Contact Section
 
 <img width="1037" height="567" alt="contact-page-responsiveness" src="https://github.com/user-attachments/assets/8435d9ff-680e-48d8-a32c-ee2fcc09fd30" />
+<img width="1888" height="886" alt="contact-page-desktop" src="https://github.com/user-attachments/assets/24d0ec04-20b9-49fd-bbd8-98fc69b5cd2a" />
 
 - The contact page not only displays where and when the barber shop is open/closed but also includes a register interest form so users can easily make contact with the barber shop. The user will be asked to submit name, phone and email address.
 - This is useful for all user to know exactlty where the shop is and how to contact them.
@@ -157,6 +158,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
