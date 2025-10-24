@@ -49,7 +49,7 @@ The business goals for GoodFellas are:
 
 ## Colours
 
-- I wanted to use black and white for a clean moder look. Bootsrap dark theme allowed me to do this quickly. As the colours on the dark theme are not quite black and white I was able to create a little contrast for sections such as the nav and footer. I have also use #7f7f7f which a darker form of grey. This also works well.
+- I wanted to use black and white for a clean modern look. Bootsrap dark theme allowed me to do this quickly. As the colours on the dark theme are not quite black and white I was able to create a little contrast for sections such as the nav and footer. I have also use #7f7f7f which a darker form of grey. This also works well.
 
 - <img width="625" height="450" alt="contrast-checker" src="https://github.com/user-attachments/assets/32f9fe0f-0b83-4e77-80df-7b0c5fe990a3" />
 
@@ -181,6 +181,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
