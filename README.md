@@ -105,15 +105,25 @@ The business goals for GoodFellas are:
 - The footer is valuable to the user as it encourages them to keep connected via social media 
 
 ## How to View the Project
+
 - (https://garethrogers2828.github.io/goodfellas/index.html)
 
 ## Testing
 
-## Validator Testing
+# Validator Testing
 
 - HTML
+  
+<img width="1800" height="150" alt="wsc-html-validator" src="https://github.com/user-attachments/assets/443d87fe-c504-46a2-bea1-ac8d44f29c47" />
 
 - CSS
+  
+<img width="1611" height="485" alt="w3c-css-validation" src="https://github.com/user-attachments/assets/70c6acbe-e388-4d7f-a460-29a9065bcfb3" />
+
+# Lighthouse Testing 
+
+<img width="318" height="333" alt="lighthouse-test" src="https://github.com/user-attachments/assets/ff0054e2-57ef-43e1-81de-812b625f2cda" />
+
 
 ## Bugs
 
@@ -134,6 +144,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
