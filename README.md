@@ -92,8 +92,8 @@ The business goals for GoodFellas are:
 
 <img width="1037" height="567" alt="contact-page-responsiveness" src="https://github.com/user-attachments/assets/8435d9ff-680e-48d8-a32c-ee2fcc09fd30" />
 
-- The contact page not only displays where and when the barber shop is open/closed but also includeds a register interest form so users can easily make contact with the barber shop. The user will be asked to submit name, phone and email address.
-- This is usefull for all user to know exactlty where the shop is and ho to contact them.
+- The contact page not only displays where and when the barber shop is open/closed but also includes a register interest form so users can easily make contact with the barber shop. The user will be asked to submit name, phone and email address.
+- This is useful for all user to know exactlty where the shop is and how to contact them.
 
 ## Footer 
 
@@ -109,7 +109,6 @@ The business goals for GoodFellas are:
 - (https://garethrogers2828.github.io/goodfellas/index.html)
 
 ## Testing
-
 
 
 # Validator Testing
@@ -138,16 +137,26 @@ The website has been tested using DevTools lighthouse, producing an acceptable r
 
 ## Credits
 
-I used bootstrap 5 to help make the site responsive on all devices, favicon, fontawesome for the icons to social media, google fonts to import both fonts used. I used bootstrap containers and columns to help make the conent and images responsive on all devices. I used Bootstrap for the table of opening/closing days and times. 
+The majority of the code was written referencing Code Institute’s Diploma in Full Stack Software Development
+
+https://codeinstitute.net
+
+I have enhanced knowledge of bootstrap to reduce the amount of CSS that needs to be written.
+
+https://getbootstrap.com/docs/5.3
+
+I used bootstrap 5 to help make the site responsive on all devices, favicon, fontawesome for the icons to social media, google fonts to import both fonts used. I used bootstrap containers and columns to help make the conent and images responsive on all devices. I used Bootstrap for the table of opening/closing days and times.
 
 ## Content 
 
 - The content from the home page was taken from [https://colorlib.com/wp/barbershop-websites/](https://scissorsscotch.com/home#scissors-scotch) & https://www.fortworthbarbershop.com/
+- 
 - The Icons from the footer were taken from https://fontawesome.com/ 
 
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
