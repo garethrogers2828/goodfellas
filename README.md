@@ -137,6 +137,12 @@ The website has been tested using DevTools lighthouse, producing an acceptable r
 
 ## Bugs
 
+## Version Control 
+
+- The site has been managed within git-hub.
+
+https://github.com/garethrogers2828
+
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -149,11 +155,11 @@ The website has been tested using DevTools lighthouse, producing an acceptable r
 
 ## Credits
 
-The majority of the code was written referencing Code Institute’s Diploma in Full Stack Software Development
+The majority of the code was written referencing Code Institute’s Diploma in Full Stack Software Development.
 
 https://codeinstitute.net
 
-I have enhanced knowledge of bootstrap to reduce the amount of CSS that needs to be written.
+I have enhanced my knowledge of bootstrap to reduce the amount of CSS that needs to be written.
 
 https://getbootstrap.com/docs/5.3
 
@@ -168,6 +174,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
