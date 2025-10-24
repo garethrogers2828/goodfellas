@@ -45,7 +45,14 @@ The business goals for GoodFellas are:
 ![mobile-wireframe](https://github.com/user-attachments/assets/4ddd2b2e-15e0-4bd3-9b7f-2319a1e51aba)
 ![desktop-wireframe](https://github.com/user-attachments/assets/0a34b75d-a895-47f6-a11e-fc6ad5e94fa0)
 
-- I had originally wanted to include an image in the contact page but this is not included in the website currently. It could be implemented at a later date. 
+- I had originally wanted to include an image in the contact page but this is not included in the website currently. It could be implemented at a later date.
+
+## Colours
+
+- I wanted to use black and white for a clean modern look. Bootstrap dark theme allowed me to do this quickly. it also creates a little contrast between nav and footer. I have also use #7f7f7f which a darker form of grey. This also works well.
+
+- <img width="625" height="450" alt="contrast-checker" src="https://github.com/user-attachments/assets/32f9fe0f-0b83-4e77-80df-7b0c5fe990a3" />
+
 
 ## Fonts
 
@@ -69,13 +76,13 @@ The business goals for GoodFellas are:
 
 
 
-- Featured on all three pages using bootstrap, the full responsive navigation bar includes links to Home, Services & Contact page. Its resposive on all 3 pages and alows users to easily access each page efficiently and know where they are. 
+- Featured on all three pages using bootstrap, the full responsive navigation bar includes links to Home, Services & Contact page. Its resposive on all 3 pages.
+- Its useful to all users so they can find the information they want and know what page they are on all times.
 
 
 ## Home/landing Page 
 
 <img width="1910" height="901" alt="home-page" src="https://github.com/user-attachments/assets/23d0343e-1ce2-416c-9017-cce11f5e353d" />
-
 
 - The Home/landing includes an image that clearly shows the type of service available. The content is engaging and quirky and makes you want to find out more. 
 - This is useful to the visitor as it immediatley shows them the type of service available. The content quickly explains the reason for the site in a fun and engaging way. 
@@ -84,6 +91,7 @@ The business goals for GoodFellas are:
 
 <img width="1014" height="557" alt="services-page-responsiveness" src="https://github.com/user-attachments/assets/c66579f8-67b6-45bb-8bbf-8209ccf2b9ea" />
 
+<img width="1888" height="877" alt="services-page-desktop" src="https://github.com/user-attachments/assets/6aef7555-e1ef-43bc-bbe0-0898e42a0cdd" />
 
 - The services page clearly displays the services available and the prices.
 - This is valuable to existing and new customers to see if the barbershop can offer them the service they desire and if they are within budget. 
@@ -91,9 +99,10 @@ The business goals for GoodFellas are:
 ## Contact Section
 
 <img width="1037" height="567" alt="contact-page-responsiveness" src="https://github.com/user-attachments/assets/8435d9ff-680e-48d8-a32c-ee2fcc09fd30" />
+<img width="1888" height="886" alt="contact-page-desktop" src="https://github.com/user-attachments/assets/24d0ec04-20b9-49fd-bbd8-98fc69b5cd2a" />
 
-- The contact page not only displays where and when the barber shop is open/closed but also includeds a register interest form so users can easily make contact with the barber shop. The user will be asked to submit name, phone and email address.
-- This is usefull for all user to know exactlty where the shop is and ho to contact them.
+- The contact page not only displays where and when the barber shop is open/closed but also includes a register interest form so users can easily make contact with the barber shop. The user will be asked to submit name, phone and email address.
+- This is useful for all user to know exactlty where the shop is and how to contact them.
 
 ## Footer 
 
@@ -105,35 +114,93 @@ The business goals for GoodFellas are:
 - The footer is valuable to the user as it encourages them to keep connected via social media 
 
 ## How to View the Project
+
 - (https://garethrogers2828.github.io/goodfellas/index.html)
 
-## Testing
+# Testing
+
+## Manual testing 
+
+- I tested the device personally for both Mobile and desktop. I had colleagues friends and family do the same.
+- The site has been tested on chrome and edge browsers. 
+
 
 ## Validator Testing
 
 - HTML
+  
+<img width="1800" height="150" alt="wsc-html-validator" src="https://github.com/user-attachments/assets/443d87fe-c504-46a2-bea1-ac8d44f29c47" />
 
 - CSS
+  
+<img width="1611" height="485" alt="w3c-css-validation" src="https://github.com/user-attachments/assets/70c6acbe-e388-4d7f-a460-29a9065bcfb3" />
+
+## Lighthouse Testing 
+
+The website has been tested using DevTools lighthouse, producing an acceptable result.
+
+<img width="318" height="333" alt="lighthouse-test" src="https://github.com/user-attachments/assets/ff0054e2-57ef-43e1-81de-812b625f2cda" />
+
 
 ## Bugs
+
+- There are no bugs that i am aware of but are some performace issues due to the size of the images. These can be reduced to help with this.
+
+## IDE
+
+- Used Visual Studio Code. 
+
+## Version Control 
+
+- The site has been managed within git-hub.
+
+https://github.com/garethrogers2828
 
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
 
+1. Go to your repository on GitHub. Then, navigate to the Settings tab.
+2. Scroll down to the "Pages" section in the left sidebar and select it.
+3. Under Branch, Select the main branch.
+4. Click Save to confirm.
+
 
 ## Credits
 
-I used bootstrap 5 to help make the site responsive on all devices, favicon, fontawesome for the icons to social media, google fonts to import both fonts used. I used bootstrap containers and columns to help make the conent and images responsive on all devices. I used Bootstrap for the table of opening/closing days and times. 
+The majority of the code was written referencing Code Institute’s Diploma in Full Stack Software Development.
+
+https://codeinstitute.net
+
+I have enhanced my knowledge of bootstrap to reduce the amount of CSS that needs to be written.
+
+https://getbootstrap.com/docs/5.3
+
+I used bootstrap 5 to help make the site responsive on all devices, favicon, fontawesome for the icons to social media, google fonts to import both fonts used. I used bootstrap containers and columns to help make the content and images responsive on all devices. I used Bootstrap for the table of opening/closing days and times.
 
 ## Content 
 
 - The content from the home page was taken from [https://colorlib.com/wp/barbershop-websites/](https://scissorsscotch.com/home#scissors-scotch) & https://www.fortworthbarbershop.com/
-- The Icons from the footer were taken from https://fontawesome.com/ 
+- Some of the content has been made up by myself
+- The Icons from the footer were taken from https://fontawesome.com/
+
 
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
