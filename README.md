@@ -83,6 +83,9 @@ The business goals for GoodFellas are:
 ## Home/Landing Page 
 
 <img width="1910" height="901" alt="home-page" src="https://github.com/user-attachments/assets/23d0343e-1ce2-416c-9017-cce11f5e353d" />
+<img width="990" height="586" alt="home-page-responsiveness" src="https://github.com/user-attachments/assets/dc796e67-a8bc-4a9e-8549-0d8d4444875b" />
+
+
 
 - The Home/Landing page includes an image that clearly shows the type of service available. The content is engaging and quirky and makes you want to find out more. 
 - This is useful to the visitor as it immediatley shows them the type of service available. The content quickly explains the reason for the site in a fun and engaging way. 
@@ -211,6 +214,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
