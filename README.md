@@ -119,6 +119,27 @@ The business goals for GoodFellas are:
 
 # Testing
 
+| Feature                      | Expect                                                                                                     | Action                                    | Result                                                                                           
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Brand name link (GoodFellas) | Go to home page when clicked                                                                               | Clicked Brand name in Navbar              | Return to Home Page                                                                              | 
+| Home link                    | Go to home page when clicked                                                                               | Clicked home button from Navbar           | Return to Home Page                                                                              | 
+| Services Link                | Go to services page when clicked                                                                           | Clicked services from Nav Bar             | Services page opens                                                                              | 
+| Contact Link                 | Go to Contact Page when clicked                                                                            | Clicked Contact from nav bar              | Contact page opens                                                                               | 
+| Register Interest Form       | form will expect to receive the correct data type                                                          | User enters in-correct data type          | User gets error message explaining they have entered incorrect data type when they try to submit |  
+| Register Interest Form       | form will expect to receive the correct data type                                                          | User enters correct data type             | No errors and user will now be able click the submit button                                      |  
+| Submit Button                | Highlight Grey on hover                                                                                    | User hovers over button                   | Button highlight grey and font changes to white                                                  |  
+| Submit Button                | Will submit form (providing data has been entered correctly as advised above)                              | User clicks to submit form                | Form is submitted and Success page is show to user                                              
+| Email link                   | When clicked it will open up your default email with the correct email of the barbershop correctly entered | User clicks email link                    | Works as expected                                                                                
+| Social Media Links           | When clicked a new window will open taking the user to the relevant social media site                      | User clicks one of the social media links | New window is opened with correct social media website                                    
+
+## User Story testing
+
+| User Story                                                                                                                                                              | Result                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| As a new customer, I need easy navigation and a user-friendly design, including a responsive layout for my device, so I can find information quickly and efficiently.   | As a new customer I can quickly find all the information I need on all devices.                   |
+| As a potential new customer, I need to essential information such as location, contact details, and opening hours clearly and concisely, so I can easily plan my visit. | As a potential nw customer I can see location and opening hours so I can plan my visit            |
+| As a customer, I need to be able to register my interest due to my busy schedule.                                                                                       | As a customer I can quickly register interest in an appointment so I can get on with my busy day. |
+
 ## Manual testing 
 
 - I tested the device personally for both Mobile and desktop. I had colleagues friends and family do the same.
@@ -190,6 +211,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
