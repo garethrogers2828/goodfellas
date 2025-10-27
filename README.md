@@ -119,6 +119,10 @@ https://ui.dev/amiresponsive?url=https://garethrogers2828.github.io/goodfellas/c
 - The footer section includes links to the relevant social media sites for GoodFellas. The links will open to a new tab to allow easy navigation for the user.
 - The footer is valuable to the user as it encourages them to keep connected via social media.
 
+## Future Features 
+
+- Resgister Interst Form to be changed to a booking form allowing vistors to sedlect a date and time 
+
 ## How to View the Project
 
 - (https://garethrogers2828.github.io/goodfellas/index.html)
@@ -201,11 +205,13 @@ The majority of the code was written referencing Code Institute’s Diploma in F
 
 https://codeinstitute.net
 
-I have enhanced my knowledge of bootstrap to reduce the amount of CSS that needs to be written.
+I have enhanced my knowledge of bootstrap to reduce the amount of CSS that needs to be written. 
 
 https://getbootstrap.com/docs/5.3
 
-I used bootstrap 5 to help make the site responsive on all devices, favicon, fontawesome for the icons to social media, google fonts to import both fonts used. I used bootstrap containers and columns to help make the content and images responsive on all devices. I used Bootstrap for the table of opening/closing days and times.
+I used bootstrap 5 throughout to help make the site responsive on all devices, favicon, fontawesome for the icons to social media, google fonts to import both fonts used. I used bootstrap containers, columns, tables for the opening and closing and forms for the resgister interest form. 
+
+I often used youtube and chat gpt to troubleshoot and simplify things during the process
 
 ## Content 
 
@@ -217,6 +223,7 @@ I used bootstrap 5 to help make the site responsive on all devices, favicon, fon
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
