@@ -213,6 +213,8 @@ I used bootstrap 5 throughout to help make the site responsive on all devices, f
 
 I often used youtube and chat gpt to troubleshoot and simplify things during the process
 
+https://www.youtube.com/watch?v=nCX3QVl_PiI&t=159s
+
 ## Content 
 
 - The content from the home page was taken from [https://colorlib.com/wp/barbershop-websites/](https://scissorsscotch.com/home#scissors-scotch) & https://www.fortworthbarbershop.com/
@@ -223,6 +225,7 @@ I often used youtube and chat gpt to troubleshoot and simplify things during the
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
