@@ -187,7 +187,7 @@ The website has been tested using DevTools lighthouse, producing an acceptable r
 
 - The site has been managed within git-hub.
 
-https://github.com/garethrogers2828
+https://github.com/garethrogers2828/goodfellas
 
 ## Deployment
 
@@ -225,6 +225,7 @@ https://www.youtube.com/watch?v=nCX3QVl_PiI&t=159s
 ## Media 
 
 - The image used throughout the site were taken from [pexels.com ](https://www.pexels.com/)
+
 
 
 
